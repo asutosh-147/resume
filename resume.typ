@@ -40,8 +40,8 @@
     datetime(year:2022, month:5, day:1),
     datetime(year:2024, month:12, day:1),
   )[
-    - Designed frontend of #link("https://www.festvssut.in/",text(weight: "medium",underline("SamaveshXVassaunt"))) the official fest website of VSSUT
-    - Contributed to various team projects like Student Management System, Ritrovo(social media app)
+    - Designed frontend of #link("https://www.festvssut.in/",text(weight: "medium",underline("SamaveshXVassaunt"))) the  fest website of VSSUT
+    - Contributed to a team project Student Management System. 
   ]
 ]
 
@@ -112,6 +112,6 @@
   )
 ]
 #custom-title("Achievements")[
-  - Solved *500+ DSA problems* on Leetcode with Daily Challenge *streak of over 300 days.*
-  - Solved *290+ DSA problems* on geeksforgeeks
+  - Solved *500+ DSA problems* on Leetcode. maximum Daily Challenge *streak of over 300 days.*
+  - Solved *290+ DSA problems* on GeeksForGeeks.
 ]
